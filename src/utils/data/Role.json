@@ -1,0 +1,33 @@
+[
+  {
+    "_id": "6052465d555bcd3659f73fb9",
+    "name": "Admin",
+    "roleResources": [
+    ]
+  },
+  {
+    "_id": "6052465d555bcd3659f73fba",
+    "name": "Manager",
+    "roleResources": [
+      "605250e1bec17f548bcebc78",
+      "605250e1bec17f548bcebc79",
+      "605250e1bec17f548bcebc7a",
+      "605250e1bec17f548bcebc7b",
+      "60531e64755b8ad24b64a042",
+      "605250e1bec17f548bcebc7c",
+      "605250e1bec17f548bcebc7d",
+      "605250e1bec17f548bcebc7e",
+      "60772290f71f966a5c1e0bc3",
+      "60772356f71f966a5c1e0bc5",
+      "6083b60e17d9d5d32a37bd2a"
+    ]
+  },
+  {
+    "_id": "6052465d555bcd3659f73fbb",
+    "name": "Staff",
+    "roleResources": [
+      "605250e1bec17f548bcebc74",
+      "605250e1bec17f548bcebc75"
+    ]
+  }
+]

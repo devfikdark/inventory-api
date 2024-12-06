@@ -1,0 +1,44 @@
+{
+  "name": "inventory-api-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "babel-node server.js",
+    "dev": "nodemon server.js --exec babel-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Project-Collaborations/Inventory-API-v1.git"
+  },
+  "author": "@TeamTigers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Project-Collaborations/Inventory-API-v1/issues"
+  },
+  "homepage": "https://github.com/Project-Collaborations/Inventory-API-v1#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "bcryptjs": "^2.4.3",
+    "canvas": "^2.7.0",
+    "cloudinary": "^1.25.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "jest": "^26.6.3",
+    "jsbarcode": "^3.11.3",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.19",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "nodemon": "^2.0.7"
+  }
+}

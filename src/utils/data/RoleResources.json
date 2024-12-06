@@ -1,0 +1,119 @@
+[
+  {
+    "_id": "605250e1bec17f548bcebc74",
+    "canCreate": true,
+    "canRead": true,
+    "canEdit": false,
+    "canDelete": false,
+    "resource": "605248c9604d263c9f2e6366",
+    "role": "6052465d555bcd3659f73fbb"
+  },
+  {
+    "_id": "605250e1bec17f548bcebc75",
+    "canCreate": false,
+    "canRead": true,
+    "canEdit": false,
+    "canDelete": false,
+    "resource": "605248c9604d263c9f2e636a",
+    "role": "6052465d555bcd3659f73fbb"
+  },
+  {
+    "_id": "605250e1bec17f548bcebc78",
+    "canCreate": true,
+    "canRead": true,
+    "canEdit": true,
+    "canDelete": false,
+    "resource": "605248c9604d263c9f2e6366",
+    "role": "6052465d555bcd3659f73fba"
+  },
+  {
+    "_id": "605250e1bec17f548bcebc79",
+    "canCreate": true,
+    "canRead": true,
+    "canEdit": true,
+    "canDelete": false,
+    "resource": "605248c9604d263c9f2e6367",
+    "role": "6052465d555bcd3659f73fba"
+  },
+  {
+    "_id": "605250e1bec17f548bcebc7a",
+    "canCreate": true,
+    "canRead": true,
+    "canEdit": true,
+    "canDelete": false,
+    "resource": "605248c9604d263c9f2e6368",
+    "role": "6052465d555bcd3659f73fba"
+  },
+  {
+    "_id": "605250e1bec17f548bcebc7b",
+    "canCreate": true,
+    "canRead": true,
+    "canEdit": true,
+    "canDelete": false,
+    "resource": "605248c9604d263c9f2e6369",
+    "role": "6052465d555bcd3659f73fba"
+  },
+  {
+    "_id": "60531e64755b8ad24b64a042",
+    "canCreate": true,
+    "canRead": true,
+    "canEdit": true,
+    "canDelete": false,
+    "resource": "60531c92d412f3d02312e50a",
+    "role": "6052465d555bcd3659f73fba"
+  },
+  {
+    "_id": "605250e1bec17f548bcebc7c",
+    "canCreate": true,
+    "canRead": true,
+    "canEdit": true,
+    "canDelete": false,
+    "resource": "605248c9604d263c9f2e636a",
+    "role": "6052465d555bcd3659f73fba"
+  },
+  {
+    "_id": "605250e1bec17f548bcebc7d",
+    "canCreate": true,
+    "canRead": true,
+    "canEdit": true,
+    "canDelete": false,
+    "resource": "605248c9604d263c9f2e636b",
+    "role": "6052465d555bcd3659f73fba"
+  },
+  {
+    "_id": "605250e1bec17f548bcebc7e",
+    "canCreate": true,
+    "canRead": true,
+    "canEdit": true,
+    "canDelete": false,
+    "resource": "605248c9604d263c9f2e636c",
+    "role": "6052465d555bcd3659f73fba"
+  },
+  {
+    "_id": "60772290f71f966a5c1e0bc3",
+    "canCreate": false,
+    "canRead": false,
+    "canEdit": false,
+    "canDelete": false,
+    "resource": "607721caf71f966a5c1e0bc2",
+    "role": "6052465d555bcd3659f73fba"
+  },
+  {
+    "_id": "60772356f71f966a5c1e0bc5",
+    "canCreate": false,
+    "canRead": false,
+    "canEdit": false,
+    "canDelete": false,
+    "resource": "6077233af71f966a5c1e0bc4",
+    "role": "6052465d555bcd3659f73fba"
+  },
+  {
+    "_id": "6083b60e17d9d5d32a37bd2a",
+    "canCreate": false,
+    "canRead": false,
+    "canEdit": false,
+    "canDelete": false,
+    "resource": "6083b68117d9d5d32a37bd2b",
+    "role": "6052465d555bcd3659f73fba"
+  }
+]

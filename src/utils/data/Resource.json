@@ -1,0 +1,81 @@
+[
+  {
+    "_id": "605248c9604d263c9f2e6366",
+    "name": "sale",
+    "roleResource": [
+      "605250e1bec17f548bcebc74",
+      "605250e1bec17f548bcebc78"
+    ]
+  },
+  {
+    "_id": "605248c9604d263c9f2e6367",
+    "name": "product",
+    "roleResource": [
+      "605250e1bec17f548bcebc79"
+    ]
+  },
+  {
+    "_id": "605248c9604d263c9f2e6368",
+    "name": "tag",
+    "roleResource": [
+      "605250e1bec17f548bcebc7a"
+    ]
+  },
+  {
+    "_id": "605248c9604d263c9f2e6369",
+    "name": "brand",
+    "roleResource": [
+      "605250e1bec17f548bcebc7b"
+    ]
+  },
+  {
+    "_id": "60531c92d412f3d02312e50a",
+    "name": "size",
+    "roleResource": [
+      "60531e64755b8ad24b64a042"
+    ]
+  },
+  {
+    "_id": "605248c9604d263c9f2e636a",
+    "name": "order",
+    "roleResource": [
+      "605250e1bec17f548bcebc7c",
+      "605250e1bec17f548bcebc75"
+    ]
+  },
+  {
+    "_id": "605248c9604d263c9f2e636b",
+    "name": "supplier",
+    "roleResource": [
+      "605250e1bec17f548bcebc7d"
+    ]
+  },
+  {
+    "_id": "605248c9604d263c9f2e636c",
+    "name": "transaction",
+    "roleResource": [
+      "605250e1bec17f548bcebc7e"
+    ]
+  },
+  {
+    "_id": "607721caf71f966a5c1e0bc2",
+    "name": "expenditure",
+    "roleResource": [
+      "60772290f71f966a5c1e0bc3"
+    ]
+  },
+  {
+    "_id": "6077233af71f966a5c1e0bc4",
+    "name": "bankTransaction",
+    "roleResource": [
+      "60772356f71f966a5c1e0bc5"
+    ]
+  },
+  {
+    "_id": "6083b68117d9d5d32a37bd2b",
+    "name": "returnRegular",
+    "roleResource": [
+      "6083b60e17d9d5d32a37bd2a"
+    ]
+  }
+]
